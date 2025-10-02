@@ -1,0 +1,4 @@
+User-agent: Yandex
+Disallow:
+
+Sitemap: https://1winbonus.ru/sitemap.xml
